@@ -18,7 +18,7 @@ Bilgisayar Programcılığı Ön Lisans mezunuyum. Aynı zamanda Anadolu Üniver
 
 ### Çalıştığım Bazı Projeler
 
-[https://borusan.com.tr](borusan.com.tr) / [https://eczacibasi.com.tr](eczacibasi.com.tr) / [https://erenholding.com.tr](erenholding.com.tr) / [https://karpowership.com](karpowership.com) / [https://tbb.org.tr](tbb.org.tr) / [https://yapikredi.com.tr](yapikredi.com.tr) / [https://www.borusanenbw.com.tr](borusanenbw.com.tr) / [https://trlibor.org](trlibor.org) / [https://riskmerkezi.org](riskmerkezi.org) / [https://gastroclub.com.tr](gastroclub.com.tr) / [https://kigili.com](kigili.com) / [https://desa.com.tr](desa.com.tr) / [https://derimod.com.tr](derimod.com.tr) / [https://barcin.com](barcin.com) / [https://lacoste.com.tr](lacoste.com.tr) / [https://sportive.com.tr](sportive.com.tr)
+[borusan.com.tr](https://borusan.com.tr) / [eczacibasi.com.tr](https://eczacibasi.com.tr) / [erenholding.com.tr](https://erenholding.com.tr) / [karpowership.com](https://karpowership.com) / [tbb.org.tr](https://tbb.org.tr) / [yapikredi.com.tr](https://yapikredi.com.tr) / [borusanenbw.com.tr](https://www.borusanenbw.com.tr) / [https://trlibor.org](trlibor.org) / [https://riskmerkezi.org](riskmerkezi.org) / [https://gastroclub.com.tr](gastroclub.com.tr) / [https://kigili.com](kigili.com) / [desa.com.tr](https://desa.com.tr) / [derimod.com.tr](https://derimod.com.tr) / [barcin.com](https://barcin.com) / [lacoste.com.tr](https://lacoste.com.tr) / [sportive.com.tr](https://sportive.com.tr)
 
 ### Sitelerim
 
