@@ -1,6 +1,6 @@
 ## Haktan Tekin - Frontend Developer
 
-Merhaba 2010 yılında başladığım kariyerime 4. şirketimde devam etmekteyim. Bu süreçte 30'u aşkın projede görev aldım.
+2010 yılında başladığım kariyerime 4. şirketimde devam etmekteyim. Bu süreçte 30'u aşkın projede görev aldım.
 
 ### Hayatım
 
