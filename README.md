@@ -4,7 +4,7 @@
 
 ### Hayatım
 
-Bilgisayar Programcılığı Ön Lisans mezunuyum. Aynı zamanda Anadolu Üniversitesi Turizm ve Seyahat Hizmetleri Ön Lisans mezunuyum. İstanbul Esenler'de ikamet etmekteyim. 10 Mayıs 1993 doğumluyum. Gülmeyi, eğlenmeyi seven, Frontend'in yanında SEO'ya da meraklı bir insanım. Tasarım programlarını aktif olarak kullanmaktayım.
+Bilgisayar Programcılığı Ön Lisans mezunuyum. Aynı zamanda Anadolu Üniversitesi Turizm ve Seyahat Hizmetleri Ön Lisans mezunuyum. İstanbul Esenler'de ikamet etmekteyim.28 yaşındayım. Gülmeyi, eğlenmeyi seven, Frontend'in yanında SEO'ya da meraklı bir insanım. Tasarım programlarını aktif olarak kullanmaktayım.
 
 ### Şirketlerim
 
