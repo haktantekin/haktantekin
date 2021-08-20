@@ -4,7 +4,7 @@ Merhaba ismim Haktan TEKİN. 2010 yılında başladığım kariyerime 4. şirket
 
 ### Hayatım
 
-İstanbul Esenler'de ikamet etmekteyim. 10 Mayıs 1993 doğumluyum. Gülmeyi, eğlenmeyi seven, Frontend'in yanında SEO'ya da meraklı bir insanım.
+Bilgisayar Programcılığı Ön Lisans mezunuyum. Aynı zamanda Anadolu Üniversitesi Turizm ve Seyahat Hizmetleri Ön Lisans mezunuyum. İstanbul Esenler'de ikamet etmekteyim. 10 Mayıs 1993 doğumluyum. Gülmeyi, eğlenmeyi seven, Frontend'in yanında SEO'ya da meraklı bir insanım. Tasarım programlarını aktif olarak kullanmaktayım.
 
 ### Şirketlerim
 
