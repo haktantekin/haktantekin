@@ -1,10 +1,10 @@
 ## Haktan Tekin - Frontend Developer
 
-2010 yılında başladığım kariyerime 4. şirketimde devam etmekteyim. Bu süreçte 30'u aşkın projede görev aldım.
+Merhabalar, ben Haktan Tekin, 2010 yılında başladığım frontend macerama Borusan Holding, Eczacıbaşı Holding, Eren Holding, Türkiye Bankalar Birliği, Yapı Kredi gibi 30'u aşkın proje sığdırdım. 10 yılımı devirdiğim bu süreçte 4 farklı firma ile çalışma fırsatım oldu. 
 
 ### Hayatım
 
-Bilgisayar Programcılığı Ön Lisans mezunuyum. Aynı zamanda Anadolu Üniversitesi Turizm ve Seyahat Hizmetleri Ön Lisans mezunuyum. İstanbul Esenler'de ikamet etmekteyim.28 yaşındayım. Gülmeyi, eğlenmeyi seven, Frontend'in yanında SEO'ya da meraklı bir insanım. Tasarım programlarını aktif olarak kullanmaktayım.
+Bilgisayar Programcılığı Ön Lisans mezunuyum. Aynı zamanda Anadolu Üniversitesi Turizm ve Seyahat Hizmetleri Ön Lisans mezunuyum. İstanbul Esenler'de ikamet etmekteyim. 28 yaşındayım. Gülmeyi, eğlenmeyi seven, frontend'in yanında SEO'ya da meraklı bir insanım. Tasarım programlarını aktif olarak kullanmaktayım.
 
 ### Şirketlerim
 
