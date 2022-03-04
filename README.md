@@ -26,7 +26,7 @@ Bilgisayar Programcılığı Ön Lisans mezunuyum. Aynı zamanda Anadolu Üniver
 
 [haktantekin](https://haktantekin.com/) sitesinden bana ulaşabilirsiniz. Ayrıca;
 
-[Dini Resimler](https://diniresimler.com/), [Kitap Alıntıları](https://kitapalintilari.com/), [Yabancı Sözlük](https://yabancisozluk.com/), [Giyyim Butik](https://giyyim.com/) sitelerinin de sahibiyim.
+[Yabancı Sözlük](https://yabancisozluk.com/), [Giyyim Butik](https://giyyim.com/) sitelerinin de sahibiyim.
 
 [Linkedin profilime](https://www.linkedin.com/in/haktantekin/) linkten ulaşabilirsiniz.
 
