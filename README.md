@@ -10,7 +10,7 @@ Mail: [mailto:me@haktantekin.com](me@haktantekin.com)
 
 ### My Businesses
 
-2021 - currently - [akinon.com](akinon.com)
+2021 - 04.2022 - [akinon.com](akinon.com)
 
 2019 - 2020 - [nuevo.com.tr](https://nuevo.com.tr)
 
