@@ -6,7 +6,7 @@ I graduated from Fatih University, Computer Programming Department (Associate De
 My long-term ambition is to work abroad, thus I'm applying to foreign companies with offices in Turkey. Every day, I strive to enhance my English skills.
 
 Phone: 0539 937 44 46
-Mail: [mailto:me@haktantekin.com](me@haktantekin.com)
+Mail: [me@haktantekin.com](me@haktantekin.com)
 
 ### My Businesses
 
