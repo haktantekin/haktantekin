@@ -1,5 +1,7 @@
 ## Haktan Tekin - Frontend Developer
 
+[haktantekin.com](https://haktantekin.com)
+
 My name is Haktan.  I'm living in Istanbul. I am twenty nine years old.
 I graduated from Fatih University, Computer Programming Department (Associate Degree). For the past twelve years, I've worked as a frontend developer. I worked on about thirty different projects. I'm using HTML5/CSS3 as well as CSS procedures (sass/less). I code websites with flex. I'm familiar with Javascript and JQuery. VueJS and ReactJS are what I'm learning.
 
