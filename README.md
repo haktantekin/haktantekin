@@ -12,7 +12,7 @@ Mail: me@haktantekin.com
 
 ### My Businesses
 
-04.2022 - current - [encazip.com](https://encazip.com)
+04.2022 - 01.2024 - [encazip.com](https://encazip.com)
 
 2021 - 04.2022 - [akinon.com](https://akinon.com)
 
